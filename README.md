@@ -1,2 +1,2 @@
 # DjangoBlogic
-Tecnology of Django my experiment
+Tecnology of Django, my experiment.
