@@ -100,4 +100,8 @@ ENV/
 # mypy
 .mypy_cache/
 
+#My config
 /.idea/
+/static/admin/*
+db.sqlite3
+
