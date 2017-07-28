@@ -1,4 +1,5 @@
 # DjangoBlogic
-Tecnology of Django, my experiment.
+
+My Django experiment.
 
 <a href="http://avedensky.pythonanywhere.com/">Face of application</a><br>
